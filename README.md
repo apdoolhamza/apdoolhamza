@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/apdoolhamza" target="blank"><img src="https://img.shields.io/twitter/follow/apdoolhamza?logo=twitter&style=for-the-badge" alt="apdoolhamza" /></a> </p>
 
-- 🌱 I’m currently learning **more web development tools**
+- 🌱 I’m currently learning **More web development tools**
 
-- 👨‍💻 All of my ads projects are available at [https://wa.me/c/2348138028142](https://wa.me/c/2348138028142)
+- 👨‍💻 All of my ads projects are available at [WhatsApp Catalog](https://wa.me/c/2348138028142)
 
 - 💬 Ask me about **Html5, Css3, JavaScript, Php, mySQL, nodejs**
 
-- 📫 How to reach me <a href="https://www.linkedin.coma/in/apdoolhamza/">linkedin</a> <a href="https://twitter.com/apdoolhamza/">twitter</a>  <a href="https://www.facebook.com/profile.php?id=100075798888112">facebook</a>
+- 📫 How to reach me <a href="https://www.linkedin.coma/in/apdoolhamza/">linkedin</a> | <a href="https://twitter.com/apdoolhamza/">twitter</a> | <a href="https://www.facebook.com/profile.php?id=100075798888112">facebook</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
