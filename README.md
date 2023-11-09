@@ -7,16 +7,16 @@
 
 - 🌱 I’m currently learning **more web development tools**
 
-- 👨‍💻 All of my projects are available at [https://wa.me/c/2348138028142](https://wa.me/c/2348138028142)
+- 👨‍💻 All of my ads projects are available at [https://wa.me/c/2348138028142](https://wa.me/c/2348138028142)
 
 - 💬 Ask me about **Html5, Css3, JavaScript, Php, mySQL, nodejs**
 
-- 📫 How to reach me **awesomedeveloperng@gmail.com**
+- 📫 How to reach me <a href="https://www.linkedin.coma/in/apdoolhamza/">linkedin</a> <a href="https://twitter.com/apdoolhamza/">twitter</a>  <a href="https://www.facebook.com/profile.php?id=100075798888112">facebook</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/apdoolhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="apdoolhamza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/apdoolhamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/apdoolhamza/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.coma/in/apdoolhamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.coma/in/apdoolhamza/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100075798888112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100075798888112" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/apdoolhamza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/apdoolhamza/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@awesomedevschannel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@awesomedevschannel" height="30" width="40" /></a>
