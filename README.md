@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html5, Css3, JavaScript, Php, mySQL, nodejs**
 
-- 📫 How to reach me <a href="https://www.linkedin.coma/in/apdoolhamza/">linkedin</a> | <a href="https://twitter.com/apdoolhamza/">twitter</a> | <a href="https://www.facebook.com/profile.php?id=100075798888112">facebook</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/apdoolhamza/">linkedin</a> | <a href="https://twitter.com/apdoolhamza/">twitter</a> | <a href="https://www.facebook.com/profile.php?id=100075798888112">facebook</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
