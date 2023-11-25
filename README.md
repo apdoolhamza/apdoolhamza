@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **More web development tools**
 
-- 👨‍💻 All of my ads projects are available at [WhatsApp Catalog](https://wa.me/c/2348138028142)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://apdoolhamza.github.io/)
 
 - 💬 Ask me about **Html5, Css3, JavaScript, Php, mySQL, nodejs**
 
