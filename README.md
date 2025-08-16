@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apdoolmajeed Hamza</h1>
-<h3 align="center">A passionate Full-Stack Web Developer, AI/ML Developer, Ui/Ux Designer</h3>
+<h3 align="center">A passionate Full-Stack Web Developer, AI/ML Engineer, Ui/Ux Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apdoolhamza&label=Profile%20views&color=0e75b6&style=flat" alt="apdoolhamza" /> </p>
 
