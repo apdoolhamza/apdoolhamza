@@ -3,9 +3,6 @@
 <h3 align="left">Some Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://firebase.google.com/">
-    <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
-  </a>
   <a href="https://tailwindcss.com">
     <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
   </a>
