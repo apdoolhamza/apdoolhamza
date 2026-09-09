@@ -3,9 +3,6 @@
 <h3 align="left">Some Languages and Tools:</h3>
 
 <p align="center">
-  <a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  </a>
   <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" height="50"/>
   </a>
@@ -14,9 +11,6 @@
   </a>
   <a href="https://www.php.net">
     <img src="https://skillicons.dev/icons?i=php" height="50"/>
-  </a>
-  <a href="https://postman.com">
-    <img src="https://skillicons.dev/icons?i=postman" height="50"/>
   </a>
   <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=python" height="50"/>
@@ -29,5 +23,11 @@
   </a>
   <a href="https://scikit-learn.org/">
     <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://skillicons.dev/icons?i=react" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
   </a>
 </p>
