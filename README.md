@@ -27,7 +27,4 @@
   <a href="https://react.dev/">
     <img src="https://skillicons.dev/icons?i=react" height="50"/>
   </a>
-  <a href="https://tailwindcss.com">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="50"/>
-  </a>
 </p>
