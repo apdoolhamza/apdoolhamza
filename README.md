@@ -21,6 +21,7 @@
   <a href="https://pytorch.org/">
     <img src="https://skillicons.dev/icons?i=pytorch" height="50"/>
   </a>
+</br>
   <a href="https://scikit-learn.org/">
     <img src="https://skillicons.dev/icons?i=sklearn" height="50"/>
   </a>
